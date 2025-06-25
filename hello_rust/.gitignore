@@ -1,0 +1,40 @@
+# Compiled Rust files
+/target/
+
+# Executables and binaries
+*.exe
+*.exe~
+*.dll
+*.dylib
+*.so
+
+# Test output
+/coverage/
+/debug/
+/build/
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Byebug history file
+.byebug_history
+
+# VS Code settings
+.vscode/
+
+# IntelliJ project files
+.idea/
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Cargo specific
+**/Cargo.lock
