@@ -1,1 +1,1 @@
-# Assorted Rust Projects For Personal Learningd
+# Assorted Rust Projects For Personal Learning
